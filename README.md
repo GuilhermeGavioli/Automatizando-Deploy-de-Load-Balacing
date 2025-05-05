@@ -12,16 +12,18 @@
 </br>
 <h1>Desafios</h1>
 
-- Garantir o minimo de permissão possivel para atingir o objetivo por meio de camada de internet e transporte.
+- Garantir o minimo de permissão possivel para atingir o objetivo por meio de regras de segurança na camada 3 e 4.
 
-- Garantir que o Ansible acesse e configure os servidores na subrede privada a partir de um jumper, no caso, o servidor de Proxy.
+- Garantir que o Ansible acesse e configure os servidores na subrede privada a partir de um jumper, no caso, o servidor de Proxy e nunca diretamente.
 
 - Criação do script de automação.
 
 </br>
 <h1>Arquitetura</h1>
 
-![Alt Text](ref/static/infra.PNG)
+![arch2](https://github.com/user-attachments/assets/95bcb45b-1121-4bea-9638-30b3b5d6f937)
+
+
 - 1 vpc (192.168.0.0/24).
 - 2 subredes (192.168.0.0/28 & 192.168.0.16/28).
 - 1 internet gateway.
@@ -29,6 +31,12 @@
 - 1 tabela de Roteamento.
 - 4 instancias ec2 (proxy e 3 servidores http).
 - 2 grupos de Segurança.
+
+</br>
+<h1>Grupos de Segurança e Tabelas de Roteamento</h1>
+
+![sg](https://github.com/user-attachments/assets/de4aa2a6-2923-49e1-af59-5a5549b951a0)
+
 
 </br>
 <h1>Demo - Execução e cURL</h1>
