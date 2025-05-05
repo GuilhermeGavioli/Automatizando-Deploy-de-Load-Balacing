@@ -38,6 +38,9 @@
   Your browser does not support the video tag.
 </video>
 
+[Watch the demo](./ref/mp4/demo-terraformar.mp4)
+[Watch the demo](/ref/mp4/demo-terraformar.mp4)
+
 </br>
 <h1>Demo - Destruindo a Infraestrutura</h1>
 <h3>Terraform Destroy</h3>
