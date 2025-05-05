@@ -33,28 +33,21 @@
 </br>
 <h1>Demo - Execução e cURL</h1>
 <h3>Construindo e Configurando a Infraestrutura</h3>
-<video width="640" height="360" controls>
-  <source src="./ref/webm/Demo-Terraformar.webm" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-[Watch the demo](./ref/webm/Demo-Terraformar.webm)
-[Watch the demo](/ref/webm/Demo-Terraformar.webm)
+[Demo-Terraformar.webm](https://github.com/user-attachments/assets/11e57d80-18de-40f5-80f8-28bccc8f4e6f)
 
 </br>
 <h1>Demo - Destruindo a Infraestrutura</h1>
 <h3>Terraform Destroy</h3>
-<video width="640" height="360" controls>
-  <source src="./ref/mp4/demo-desterraformar.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[Demo-Desterraformar.webm](https://github.com/user-attachments/assets/47814781-3d94-42bc-8d6c-cf22e3de83ab)
+
 
 </br>
 <h1>Demo - LB no Navegador</h1>
-<video width="640" height="360" controls>
-  <source src="./ref/mp4/demo-gui.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[Demo-Gui.webm](https://github.com/user-attachments/assets/b9dd9a23-6d60-4282-a059-77a5237fb3c5)
+
 
 </br>
 <h1>Nota</h1>
@@ -65,5 +58,5 @@ Os seguintes arquivos e caminhos são construídos a partir do script shell e es
 - ./ansible/inventory.ini
 - ./ansible/playbook.yml
 
-Variaveis de ambiente AWS foram exportadas.
+Variaveis de ambiente AWS (client id e secret) foram exportadas na shell.
 </br></br>
