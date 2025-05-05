@@ -34,12 +34,12 @@
 <h1>Demo - Execução e cURL</h1>
 <h3>Construindo e Configurando a Infraestrutura</h3>
 <video width="640" height="360" controls>
-  <source src="./ref/mp4/demo-terraformar.mp4" type="video/mp4">
+  <source src="./ref/webm/Demo-Terraformar.webm" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-[Watch the demo](./ref/mp4/demo-terraformar.mp4)
-[Watch the demo](/ref/mp4/demo-terraformar.mp4)
+[Watch the demo](./ref/webm/Demo-Terraformar.webm)
+[Watch the demo](/ref/webm/Demo-Terraformar.webm)
 
 </br>
 <h1>Demo - Destruindo a Infraestrutura</h1>
