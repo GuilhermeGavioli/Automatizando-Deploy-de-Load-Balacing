@@ -1,5 +1,5 @@
 <h1>Objetivo</h1>
-<p>Automatizar o provisionamento e configuração dos recursos.</p>
+<p>Automatizar o provisionamento e configuração dos recursos a partir de um único script bash shell.</p>
 
 </br>
 <h1>Ferramentas</h1>
