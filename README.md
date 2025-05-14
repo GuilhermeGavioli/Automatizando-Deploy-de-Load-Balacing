@@ -19,7 +19,7 @@
 - Criação do script de automação.
 
 </br>
-<h1>Arquitetura</h1>
+<h1>Arquitetura Gerada</h1>
 
 ![arch2](https://github.com/user-attachments/assets/95bcb45b-1121-4bea-9638-30b3b5d6f937)
 
@@ -33,7 +33,7 @@
 - 2 grupos de Segurança.
 
 </br>
-<h1>Grupos de Segurança e Tabelas de Roteamento</h1>
+<h1>Grupos de Segurança e Tabelas de Roteamento Gerados</h1>
 
 ![sg](https://github.com/user-attachments/assets/de4aa2a6-2923-49e1-af59-5a5549b951a0)
 
